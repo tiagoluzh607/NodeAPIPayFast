@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tiagoluzh607/NodeAPIPayFast/issues"
   },
-  "homepage": "https://github.com/tiagoluzh607/NodeAPIPayFast#readme"
+  "homepage": "https://github.com/tiagoluzh607/NodeAPIPayFast#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
