@@ -1,0 +1,24 @@
+{
+  "name": "nodeapipayfast",
+  "version": "1.0.0",
+  "description": "curso sobre criacao de uma API em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoluzh607/NodeAPIPayFast.git"
+  },
+  "keywords": [
+    "pagamento",
+    "api",
+    "node"
+  ],
+  "author": "tiagoluz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoluzh607/NodeAPIPayFast/issues"
+  },
+  "homepage": "https://github.com/tiagoluzh607/NodeAPIPayFast#readme"
+}
